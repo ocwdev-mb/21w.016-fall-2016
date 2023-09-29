@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 2beee35a-de34-5d73-a6e2-abc163cd74b9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d2a68636-6016-69e3-37ec-0c78c1992ac8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 810fe7af-60bb-bff7-13e7-2379d232a938
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 75c5e635-3aa1-3a1b-1c23-e37346320c96
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 2eed2080-af4c-e4ff-6506-9cc5f3a4d737
+  name: Essay 1
+  pageRef: /pages/assignments/essay-1
+  parent: 75c5e635-3aa1-3a1b-1c23-e37346320c96
+  weight: 50
+- identifier: 5b82796a-4671-b73c-a125-88dbeee8dbc1
+  name: Essay 2
+  pageRef: /pages/assignments/essay-2
+  parent: 75c5e635-3aa1-3a1b-1c23-e37346320c96
+  weight: 60
+- identifier: 41cd3edc-c8c7-292b-64d0-011b433a4cc7
+  name: Essay 3
+  pageRef: /pages/assignments/essay-3/
+  parent: 75c5e635-3aa1-3a1b-1c23-e37346320c96
+  weight: 70
+- identifier: 1609b2b2-468d-475c-dd5d-f6ae5d4751ef
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
